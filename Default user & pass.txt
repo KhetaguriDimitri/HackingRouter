@@ -1,0 +1,2 @@
+• Default - Login = root
+• Default - Pass = Zte521
